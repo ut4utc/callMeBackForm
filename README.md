@@ -3,17 +3,17 @@
 …or create a new repository on the command line
 
 ```
-echo "# new-onew" >> README.md
+echo "# callMeBackForm" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/ut4utc/new-onew.git
+git remote add origin https://github.com/ut4utc/callMeBackForm.git
 git push -u origin master
 ```
 …or push an existing repository from the command line
 
 ```
-git remote add origin https://github.com/ut4utc/new-onew.git
+git remote add origin https://github.com/ut4utc/callMeBackForm.git
 git push -u origin master
 ```
 

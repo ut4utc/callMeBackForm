@@ -1,0 +1,1 @@
+<?php  defined('_JEXEC') or die; $document = JFactory::getDocument(); $layout = $params->get('layout', 'default'); require JModuleHelper::getLayoutPath('mod_call_me_back_form', '$layout'); ?>

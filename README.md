@@ -1,22 +1,17 @@
 # callMeBackForm
 
-…or create a new repository on the command line
-
+Update history 1.1:
 ```
-echo "# callMeBackForm" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/ut4utc/callMeBackForm.git
-git push -u origin master
-```
-…or push an existing repository from the command line
+Legend:* -> Security Fix
+# -> Bug Fix
+$ -> Language fix or change
++ -> Addition
+^ -> Change
+- -> Removed
+! -> Note
 
-```
-git remote add origin https://github.com/ut4utc/callMeBackForm.git
-git push -u origin master
-```
+-------------------- v1.1 Stable Release [23-Oct-2017] ------------------
 
-Little fix mod_call_me_back_form_1_0 
-
-Правка модуля обратной связи от standardcompany.ru
+^ Change mini/assets/css files - minified css file.
+^ Change tmpl/default.php  in the root directory
+```

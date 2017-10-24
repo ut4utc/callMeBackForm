@@ -3,6 +3,7 @@
 ._*
 .Spotlight-V100
 .Trashes
+.gitignore
 mini/callMeBackForm-min.zip
 
 # Windows
@@ -17,7 +18,6 @@ Desktop.ini
 *~
 
 # Never ignore
-!.gitignore
 !index.html
 !index.php
 
